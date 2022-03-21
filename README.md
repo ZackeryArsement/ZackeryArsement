@@ -2,13 +2,16 @@
 
 # Technologies
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="./images/atom.png" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="./images/mongodb.png" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="./images/mysql.png" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="./images/java-script.png" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="./images/nodejs.png" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="./images/html-5.png" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="./images/css.png" height="100" /></a>
+<a href="https://reactjs.org/" target="blank"><img align="center" src="./images/atom.png" height="100" /></a>
+<a href="https://www.mongodb.com/" target="blank"><img align="center" src="./images/mongodb.png" height="100" /></a>
+<a href="https://www.mysql.com/" target="blank"><img align="center" src="./images/mysql.png" height="100" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="./images/java-script.png" height="100" /></a>
+<a href="https://nodejs.org/en/" target="blank"><img align="center" src="./images/nodejs.png" height="100" /></a>
+<a href="https://html.com/" target="blank"><img align="center" src="./images/html-5.png" height="100" /></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img align="center" src="./images/css.png" height="100" /></a>
+
+# Statistics
+![Zackery's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZackeryArsement&show_icons=true&theme=darcula)
 
 <!--
 **ZackeryArsement/ZackeryArsement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
