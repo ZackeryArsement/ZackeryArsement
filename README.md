@@ -3,11 +3,12 @@
 # Technologies
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="./images/atom.png" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="./images/css.png" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="./images/html-5.png" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="./images/mongodb.png" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="./images/mysql.png" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="./images/java-script.png" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="./images/nodejs.png" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="./images/html-5.png" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="./images/css.png" height="100" /></a>
 
 <!--
 **ZackeryArsement/ZackeryArsement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
