@@ -1,19 +1,19 @@
 # Contact Information
-<a href="https://www.linkedin.com/in/zackery-arsement/" target="blank"><img align="center" src="./images/linkedin.png" height="100" /></a>
-<a href="https://github.com/ZackeryArsement" target="blank"><img align="center" src="./images/github.png" height="100" /></a>
-<a href="mailto:zarsement@hotmail.com" target="blank"><img align="center" src="./images/outlook.png" height="100" /></a>
-<a href="/images/resume.pdf" target="blank" download><img align="center" src="./images/cv.png" height="100" /></a>
+<a href="https://www.linkedin.com/in/zackery-arsement/" target="_blank"><img align="center" src="./images/linkedin.png" height="100" /></a>
+<a href="https://github.com/ZackeryArsement" target="_blank"><img align="center" src="./images/github.png" height="100" /></a>
+<a href="mailto:zarsement@hotmail.com" target="_blank"><img align="center" src="./images/outlook.png" height="100" /></a>
+<a href="/images/resume.pdf" target="_blank" download><img align="center" src="./images/cv.png" height="100" /></a>
 
 # Technologies
 
-<a href="https://reactjs.org/" target="blank"><img align="center" src="./images/atom.png" height="100" /></a>
-<a href="https://www.mongodb.com/" target="blank"><img align="center" src="./images/mongodb.png" height="100" /></a>
-<a href="https://www.mysql.com/" target="blank"><img align="center" src="./images/mysql.png" height="100" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="./images/java-script.png" height="100" /></a>
-<a href="https://nodejs.org/en/" target="blank"><img align="center" src="./images/nodejs.png" height="100" /></a>
-<a href="https://html.com/" target="blank"><img align="center" src="./images/html-5.png" height="100" /></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img align="center" src="./images/css.png" height="100" /></a>
-<a href="https://expressjs.com/" target="blank">EX</a>
+<a href="https://reactjs.org/" target="_blank"><img align="center" src="./images/atom.png" height="100" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img align="center" src="./images/mongodb.png" height="100" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="center" src="./images/mysql.png" height="100" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img align="center" src="./images/java-script.png" height="100" /></a>
+<a href="https://nodejs.org/en/" target="_blank"><img align="center" src="./images/nodejs.png" height="100" /></a>
+<a href="https://html.com/" target="_blank"><img align="center" src="./images/html-5.png" height="100" /></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img align="center" src="./images/css.png" height="100" /></a>
+<a href="https://expressjs.com/" target="_blank" style="font-size: 3rem;">EX</a>
 
 # Statistics'
 ![Zackery's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZackeryArsement&show_icons=true&theme=darcula)
