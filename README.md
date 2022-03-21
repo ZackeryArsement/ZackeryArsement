@@ -13,6 +13,9 @@
 # Statistics
 ![Zackery's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZackeryArsement&show_icons=true&theme=darcula)
 
+# Languages Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackeryArsement&layout=compact)](https://github.com/ZackeryArsement/github-readme-stats)
+
 <!--
 **ZackeryArsement/ZackeryArsement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
