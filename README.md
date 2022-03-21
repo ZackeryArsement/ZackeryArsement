@@ -1,3 +1,7 @@
+# About Me
+
+I am a Full-Stack Web Developer with 7 years of software experience. I have a background in mechanical engineering, and I excel in team-oriented projects and problem solving. I have received a Full-Stack Web Development Certificate from the University of Texas at Austin’s Coding Bootcamp. There I acquired the skills to use ReactJS, Javascript, Express, MySQL, MongoDB, JQuery, Node.js, RESTful API's, HTML, and CSS3. Prior software experience includes autonomous robotics using Robot C, data acquisition and modeling with Python, and game development using C# through the Unity Game Engine. I look forward to applying my problem solving skills and technical knowledge to further push the bounds in the software industry.
+
 # Contact Information
 <a href="https://www.linkedin.com/in/zackery-arsement/" target="_blank"><img align="center" src="./images/linkedin.png" height="100" /></a>
 <a href="https://github.com/ZackeryArsement" target="_blank"><img align="center" src="./images/github.png" height="100" /></a>
@@ -13,7 +17,7 @@
 <a href="https://nodejs.org/en/" target="_blank"><img align="center" src="./images/nodejs.png" height="100" /></a>
 <a href="https://html.com/" target="_blank"><img align="center" src="./images/html-5.png" height="100" /></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img align="center" src="./images/css.png" height="100" /></a>
-<a href="https://expressjs.com/" target="_blank" style="font-size: 3rem;">EX</a>
+<a href="https://expressjs.com/" target="_blank" style="font-size: 6rem;">EX</a>
 
 # Statistics'
 ![Zackery's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZackeryArsement&show_icons=true&theme=darcula)
