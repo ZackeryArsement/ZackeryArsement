@@ -16,6 +16,8 @@ I am a Full-Stack Web Developer with 7 years of software experience. I have a ba
 <a href="mailto:zarsement@hotmail.com" target="_blank"><img align="center" src="./images/outlook.png" height="100" /></a>
 <a href="/images/resume.pdf" target="_blank" download><img align="center" src="./images/cv.png" height="100" /></a>
 
+Email: zarsement@hotmail.com
+
 # Technologies
 
 <a href="https://reactjs.org/" target="_blank"><img align="center" src="./images/atom.png" height="100" /></a>
