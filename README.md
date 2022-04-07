@@ -17,6 +17,7 @@ I am a Full-Stack Web Developer with 7 years of software experience. I have a ba
 <a href="/images/resume.pdf" target="_blank" download><img align="center" src="./images/cv.png" height="100" /></a>
 
 Email: zarsement@hotmail.com
+Location: Beaumont, TX (Remote)
 
 # Technologies
 
