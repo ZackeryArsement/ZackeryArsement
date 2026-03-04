@@ -3,12 +3,7 @@
 I am a Full-Stack Web Developer with 7 years of software experience. I have a background in mechanical engineering, and I excel in team-oriented projects and problem solving. I have received a Full-Stack Web Development Certificate from the University of Texas at Austin’s Coding Bootcamp. There I acquired the skills to use ReactJS, Javascript, Express, MySQL, MongoDB, JQuery, Node.js, RESTful API's, HTML, and CSS3. Prior software experience includes autonomous robotics using Robot C, data acquisition and modeling with Python, and game development using C# through the Unity Game Engine. I look forward to applying my problem solving skills and technical knowledge to further push the bounds in the software industry.
 
 - 🔭 I’m currently working on ...
-- ### [Rise-N-Thrive](https://github.com/romeodixonll/Rise-N-Thrive)
-- ### [Basketball-Simulator](https://github.com/ZackeryArsement/basketball-simulation)
-
-# Web Portfolio
-
-- ### [Portfolio](https://zackeryarsement.github.io/react-portfolio/)
+- ### [QuercusCraft]([https://github.com/romeodixonll/Rise-N-Thrive](https://www.quercuscraft.com))
 
 # Contact Information
 <a href="https://www.linkedin.com/in/zackery-arsement/" target="_blank"><img align="center" src="./images/linkedin.png" height="100" /></a>
