@@ -123,11 +123,6 @@ Game server architecture demonstrating backend development, database design, and
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZackeryArsement&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackeryArsement&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZackeryArsement&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
