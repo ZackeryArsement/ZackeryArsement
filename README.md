@@ -50,9 +50,11 @@ Content platform built with modern web technologies featuring responsive design,
 Game server architecture demonstrating backend development, database design, and real-time data processing.
 
 **Tech Stack:**
-- [Your backend tech]
-- [Database]
-- [Other technologies]
+- C# / .NET
+- Event-driven WebSocket Server
+- Postgres
+- Unity Client Integration
+- Real-time Game State Synchronization
 
 🔧 Active Development
 
@@ -94,10 +96,9 @@ Game server architecture demonstrating backend development, database design, and
 ### Frameworks & Libraries
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Knockout.js](https://img.shields.io/badge/Knockout.js-E42E16?style=for-the-badge&logo=knockout&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Databases & ETL
@@ -106,6 +107,7 @@ Game server architecture demonstrating backend development, database design, and
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -138,7 +140,7 @@ Game server architecture demonstrating backend development, database design, and
 
 Full-stack prayer request platform with AWS deployment and MongoDB backend. Successfully completed beta testing phase and retired after validation.
 
-**Tech Stack:** Node.js • MongoDB • AWS • Express.js • [Your frontend tech]
+**Tech Stack:** Node.js • MongoDB • AWS • Express.js • Svelte.js
 
 **Status:** ✅ Beta Testing Completed • 📦 Archived
 
@@ -161,7 +163,6 @@ Full-stack prayer request platform with AWS deployment and MongoDB backend. Succ
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zackery-arsement/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZackeryArsement)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zarsement@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://quercuscraft.com)
 
 📧 **zarsement@hotmail.com** | 📍 **Remote**
 
