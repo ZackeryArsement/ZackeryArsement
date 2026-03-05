@@ -1,58 +1,88 @@
-# About Me
+# Zackery Arsement
+**Full-Stack Software Engineer | ETL Developer | Web Developer**
 
-I am a Full-Stack Web Developer with 7 years of software experience. I have a background in mechanical engineering, and I excel in team-oriented projects and problem solving. I have received a Full-Stack Web Development Certificate from the University of Texas at Austin’s Coding Bootcamp. There I acquired the skills to use ReactJS, Javascript, Express, MySQL, MongoDB, JQuery, Node.js, RESTful API's, HTML, and CSS3. Prior software experience includes autonomous robotics using Robot C, data acquisition and modeling with Python, and game development using C# through the Unity Game Engine. I look forward to applying my problem solving skills and technical knowledge to further push the bounds in the software industry.
+Full-Stack Software Engineer with 3+ years of enterprise banking experience and 7+ years of software development. Specializing in ETL architecture, data platform development, and modern web application design. Currently Technical Lead for the OFS Profitability platform at PNC Bank.
 
-- 🔭 I’m currently working on ...
-- ### [QuercusCraft]([https://github.com/romeodixonll/Rise-N-Thrive](https://www.quercuscraft.com))
+## 🔭 Current Projects
 
-# Contact Information
-<a href="https://www.linkedin.com/in/zackery-arsement/" target="_blank"><img align="center" src="./images/linkedin.png" height="100" /></a>
-<a href="https://github.com/ZackeryArsement" target="_blank"><img align="center" src="./images/github.png" height="100" /></a>
-<a href="mailto:zarsement@hotmail.com" target="_blank"><img align="center" src="./images/outlook.png" height="100" /></a>
-<a href="/images/resume.pdf" target="_blank" download><img align="center" src="./images/cv.png" height="100" /></a>
+### [QuercusCraft](https://www.quercuscraft.com) | [Repository](https://github.com/ZackeryArsement/quercuscraft-web)
+Content platform built with SvelteKit, TypeScript, and Tailwind CSS. Features responsive design, static site generation, and optimized performance for content delivery.
 
-Email: zarsement@hotmail.com \
-Location: Beaumont, TX (Remote)
+**Tech Stack:** SvelteKit • TypeScript • Tailwind CSS • mdsvex • Vitest
 
-# Technologies
+### [Civilization Quest Server](https://github.com/ZackeryArsement/civilization-quest-server)
+Game server architecture demonstrating backend development, database design, and real-time data processing.
 
-<a href="https://reactjs.org/" target="_blank"><img align="center" src="./images/atom.png" height="100" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img align="center" src="./images/mongodb.png" height="100" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img align="center" src="./images/mysql.png" height="100" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img align="center" src="./images/java-script.png" height="100" /></a>
-<a href="https://nodejs.org/en/" target="_blank"><img align="center" src="./images/nodejs.png" height="100" /></a>
-<a href="https://html.com/" target="_blank"><img align="center" src="./images/html-5.png" height="100" /></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img align="center" src="./images/css.png" height="100" /></a>
-<a href="https://expressjs.com/" target="_blank" style="font-size: 6rem;"><img align="center" src="./images/express.png" height="100" /></a>
+**Tech Stack:** [Your actual tech stack for this project]
 
-# Statistics
+## 💼 Professional Experience
+
+**PNC Bank** | Software Engineer (Aug 2022 - Present)
+- Technical Lead for OFS Profitability data platform
+- Architect Informatica PowerCenter ETL solutions managing 42TB+ databases
+- Design and implement data pipelines processing Teradata-to-Oracle integrations
+- Lead development teams and coordinate cross-functional initiatives
+
+## 🛠️ Technical Skills
+
+**Languages:** Java • JavaScript • TypeScript • Python • C# • PL/SQL • HTML5 • CSS3
+
+**Frameworks & Libraries:** SvelteKit • React • Node.js • Express.js • Knockout.js • Angular • Vue.js
+
+**Databases & ETL:** Informatica PowerCenter • Oracle • Teradata • MySQL • PostgreSQL • MongoDB
+
+**DevOps & Tools:** Git • Jenkins CI/CD • Docker • AWS • IBM uDeploy • Agile/Scrum
+
+**APIs:** REST • GraphQL • SOAP
+
+## 📫 Contact
+
+[![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/zackery-arsement/)
+[![GitHub](./images/github.png)](https://github.com/ZackeryArsement)
+[![Email](./images/outlook.png)](mailto:zarsement@hotmail.com)
+[![Resume](./images/cv.png)](/images/resume.pdf)
+
+**Email:** zarsement@hotmail.com  
+**Location:** Remote
+
+## 📊 GitHub Stats
+
 ![Zackery's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZackeryArsement&show_icons=true&theme=darcula)
-# Languages Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackeryArsement&layout=compact)](https://github.com/ZackeryArsement/github-readme-stats)
 
-# Icon References
-<a href="https://www.flaticon.com/free-icons/java" title="java icons">Java icons created by Pixel perfect - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by srip - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/nodejs" title="nodejs icons">Nodejs icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/css" title="css icons">Css icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons">Html 5 icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/mysql" title="mysql icons">Mysql icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/outlook" title="outlook icons">Outlook icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by Roundicons Premium - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/resume" title="resume icons">Resume icons created by rukanicon - Flaticon</a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackeryArsement&layout=compact&theme=darcula)](https://github.com/ZackeryArsement)
 
-<!--
-**ZackeryArsement/ZackeryArsement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🗃️ Retired Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Nehemiah Prayer Platform
+Full-stack prayer request platform with AWS deployment and MongoDB backend. Retired after beta testing phase.
+
+**Tech Stack:** [Your stack] • AWS • MongoDB • [Other technologies]
+
+**Status:** Archived • Beta testing completed
+
+---
+
+## 🎓 Education
+
+**University of Texas at Austin**
+- B.S. Mechanical Engineering (2020)
+- Full-Stack Web Development Certificate, Coding Bootcamp (2022) - Grade: A+
+
+---
+
+<details>
+<summary>📚 Earlier Experience</summary>
+
+Prior software experience includes:
+- Autonomous robotics using Robot C
+- Data acquisition and modeling with Python
+- Game development with C# and Unity Game Engine
+
+</details>
+
+---
+
+### Icon Attribution
+Icons by [Flaticon](https://www.flaticon.com/): Pixel perfect, srip, Freepik, Roundicons Premium, rukanicon
